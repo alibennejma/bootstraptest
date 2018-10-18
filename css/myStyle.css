@@ -1,0 +1,93 @@
+.carousel-indicators li {
+    width: 20px;
+    height: 20px;
+    border-radius: 100%;
+  }
+
+  .carousel-caption {
+    top: 0;
+    bottom: auto;
+}
+#container{
+    background-image: url("../images/slider_image_home@1xv0.png");
+    /*width: 100%;*/
+    background-repeat: no-repeat;
+}
+#image_slider
+{
+ margin-top: 80px;   
+}
+.nav-link{
+    color: white !important;
+    text-align: center !important;
+}
+.nav-item
+{
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.logo{
+ margin-top: 50px;
+ margin-bottom: 20px;
+/*
+text-align: center;
+*/
+}
+
+#myNav{
+    margin-left: 15%;
+}
+#header1
+{
+    color : white !important;
+     margin-top: 170px;
+}
+#header1_1
+{
+    
+    font-size: x-large;
+    font-weight: bold;
+    
+}
+#header1_2
+{
+    text-align: center;
+    
+}
+#para1{
+    color : white !important;
+}
+#center_Col0,#center_Col1 {   
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  #cmdReserve{
+      width: 200px;
+      border-color: white;
+      color: white;
+      font-size: initial;
+      font-weight: bold;
+      margin-top: 5%
+     
+  }
+  #explore_all,#i_reserve
+  {
+      width:200px;
+  }
+  #div_explore_all
+  {
+      align-self: center !important;
+  }
+  #div1 
+  {
+      margin-top: 80px;
+      
+  }
+  #ic_booking.new , #ic_meeting.new, #ic_payment.new       {
+    width:20%;
+}
+.bg {
+    background-color: lightgray
+}
+

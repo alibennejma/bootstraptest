@@ -1,0 +1,17 @@
+
+    <div class="container">
+        <div class="row">
+            <div class="col-md-4" id="div2g">
+                <!--  Divisée en 2-->
+                <img src="images/categ_lashes_home@1x.png" class="images-du-milieu" />
+            </div>
+            <div class="col-md-4" id="div2">
+                <!--Image de milieu-->
+                <img src="images/categ_nails_home@1x.png" class="images-du-milieu" />
+            </div>
+            <div class="col-md-4" id="div2d">
+                <img src="images/categ_haire_style_home@1x.png" class="images-du-milieu" />
+                <!--Divisée en 2-->
+            </div>
+        </div>
+    </div>
